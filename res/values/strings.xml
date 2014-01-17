@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agenda</string>
+	<string name="add_user">Adicionar</string>
+	<string name="titleAddUser">Agenda de Contatos</string>
+	<string name="nome">Nome</string>
+	<string name="phone">Telefone</string>
+	<string name="email">E-mail</string>
+	<string name="address">Endereço</string>
+	<string name="viewAll">Visualizar Todos</string>
+	<string name="save">Salvar</string>
+	
+</resources>
